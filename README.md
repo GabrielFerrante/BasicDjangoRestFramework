@@ -2,7 +2,14 @@
  Projeto básico de uma API REST com DjangoRestFramework com GET e POST
  
 # Para executar
-<code> python manage.py runserver </code>
+<ul>
+ <li><code> python manage.py makemigrations </code></li>
+ <li><code> python manage.py migrations </code></li>
+ <li><code> python manage.py createsuperuser </code> e crie um super usuário</li>
+ <li><code> python manage.py runserver </code></li>
+ 
+ </ul>
+
 # Instalação
 <ul>
  <li>Baixe o projeto e descompacte</li>
