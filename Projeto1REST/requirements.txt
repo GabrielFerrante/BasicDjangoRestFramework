@@ -71,7 +71,7 @@ PyMySQL==0.9.3
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyPdf==1.13
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyphen==0.9.5
 PySocks==1.7.1
 python-crontab==2.5.1
